@@ -1,2 +1,10 @@
-# nlp_model_practices
-자연어 처리 모델을 구현한 르포입니다.
+# Natural Language Processing Notebooks 
+Some python notebooks which performs NLP tasks.
+
+
+## Models
+### 1. Naive Bayes Model (Updated 28 March, 2022)
+Sentiment binary classification with log likelihood-ratio method. 
+
+- Dataset: Google GoEmotion
+- Result: Accuracy 81%
