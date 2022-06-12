@@ -30,4 +30,4 @@ This repository is an archive of NLP notebooks, mainly in the purpose of setting
 - NBME_pt
     - Uses PyTorch and Weights & Biases for hyperparameter tuning.
     - Model : DistilBERT
-    - Result : In Process
+    - Result : Binary Cross Entropy 0.0139
